@@ -1,0 +1,4 @@
+consumerAPIkey = 'Wkhyq4kAiHhTLxu2rPKMW2qYz'
+consumerAPIsecret = 'Lo2GdDoTJM5O4D6QBSdncSDODKqk5PdlCY8YlMDi05iVlsMsMx'
+accessToken = '828695531715166210-GV2NTk7WiEEZHSXP8Tx2gAA0ZbtbWFa'
+accessTokenSecret = 'Mkns67fevttXzASjskUlgt1SXJ2cUTZzeqvLv1NyDzkiQ'
